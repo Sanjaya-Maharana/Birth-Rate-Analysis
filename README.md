@@ -6,6 +6,8 @@ the data we analyse the births are happening in the year and the
 prediction of no of Male, and Female children are born in a year
 Technologies used: Data Science, and Machine Learning.
 
+Pandas, numpy, matplotlib, seabone libraries used.
+
 
 **install those library commands**
 
