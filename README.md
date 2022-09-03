@@ -6,7 +6,7 @@ prediction of no of Male, and Female children are born in a year
 Technologies used: Data Science, and Machine Learning.**
 
 
-**install those libraries**
+**install those library commands**
 
 pip install pandas
 
