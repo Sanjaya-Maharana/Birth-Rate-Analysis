@@ -8,7 +8,10 @@ Technologies used: Data Science, and Machine Learning.**
 
 **install those libraries**
 
-pip install pandas, 
-pip install numpy, 
-pip install matplotlib, 
+pip install pandas
+
+pip install numpy
+
+pip install matplotlib
+
 pip install seabone 
